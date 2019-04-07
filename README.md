@@ -23,6 +23,7 @@ Please note that 'haarcascade_frontalface_alt.xml' is the classifier. It is noth
 Note: Dont change the name of folder 'emotions' but you can set the names of the sub-folders as your wish. 
 
 **Now our folder 'Facial-Emotions-Detection' contains 6 files (given above) and 1 folder named 'emotions'(it contains sub-folders). 
+
 8. Now download atleast 100 images of every emotions you want to add and **keep them somwhere else (other than our main folder i.e Facial-Emotions-Detection)**
 9. This is because the pictures you have downloaded may contain multiple faces or contain un-necessary objects. You can crop all the faces one by one by yourself or you can do this by running a simple python script. Just open the **face_crop.py** using Spyder(if you have anaconda) or any other editor (IDLE or Notepad).
 10. Before running **face_crop.py**, commit this changes in the code:
