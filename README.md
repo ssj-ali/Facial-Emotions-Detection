@@ -7,6 +7,7 @@ Currently it detects only three expressions i.e Happy, Angry & Sad. I am working
 2. Install all the necessary modules like numpy. Most likely, you will get all thse libraries preinstalled if you are using Anaconda.
 3. After installing Anaconda, run Anaconda command prompt
 4. Copy paste these two lines:
+
 '''
 pip install tensorflow
 pip install opencv-python
