@@ -14,6 +14,7 @@ pip install opencv-python
 ```
 Now tensorflow and opencv is installed
 opencv is used to open webcam while tensorflow is used for training the model.
+
 5. I'm using the "Frontal Face Alt" Classifier for detecting the presence of Face in the WebCam. This file is included with this repository. You can find the other classifiers
 Please note that 'haarcascade_frontalface_alt.xml' is the classifier. It is nothing but a pretrained model that finds the faces in the input data either from images, videos or during runtime.
 6. Now download all the files I have uploaded here as a zip and then unzip it. **Make sure that everything remains in the same folder named 'Facial-Expression-Detection-master'**
