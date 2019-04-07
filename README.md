@@ -19,7 +19,7 @@ opencv is used to open webcam while tensorflow is used for training the model.
 Please note that 'haarcascade_frontalface_alt.xml' is the classifier. It is nothing but a pretrained model that finds the faces in the input data either from images, videos or during runtime.
 6. Now download all the files I have uploaded here as a zip and then unzip it. **Make sure that everything remains in the same folder named 'Facial-Expression-Detection-master'**
 7. Now download atleast 100 images of every emotions you want to add and **keep them somwhere else (other than our main folder i.e Facial-Expression-Detection-master)**
-8. This is because the pictures you have downloaded may contain multiple faces or contain un-necessary objects. You can crop all the faces one by one by yourself or you can do this by running a simple python script. Just open the **face_crop.py** using Spyder(if you have anaconda) or any other editor.
+8. This is because the pictures you have downloaded may contain multiple faces or contain un-necessary objects. You can crop all the faces one by one by yourself or you can do this by running a simple python script. Just open the **face_crop.py** using Spyder(if you have anaconda) or any other editor (IDLE or Notepad).
 9. Before running **face_crop.py**, commit this changes in the code:
 ```
 ## directory where you have dowloaded the images:
