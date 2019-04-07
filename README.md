@@ -62,3 +62,5 @@ Cheers!!
 pip install -U numpy
 ```
  **Note:** The training of the model may not get completed due to some corruptec image. Just notice the error message and see the image name where it is getting struck. Delete that image from the sub-folders and restart from the step 12.
+ 
+ **please consider starring**
